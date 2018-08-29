@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CariFilm</string>
+    <string name="nama_film">Captain Indonesia: Erlangga Pratama Putra Pancarani</string>
+    <string name="desc_film">Captain Indonesia adalah seorang super hero asal Indonesia yang halal 100%</string>
+    <string name="tanggal_film">Rabu, Apr 27, 2016</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Buka navigation drawer</string>
+    <string name="navigation_drawer_close">Tutup navigation drawer</string>
+    <string name="nav_header_title">Erlangga Pratama Putra Pancarani</string>
+    <string name="nav_header_subtitle">erlanggapratamaputra6@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ganti Pengaturan Bahasa</string>
+
+    <string name="detail">Detail</string>
+    <string name="share">Bagi</string>
+
+</resources>
